@@ -6,3 +6,4 @@ Here is a place where you can share something useful to others.
 2.If you have some useful (and free) software to share,put the link in the software_shared file;
 3.If you have some useful website(about IT or other field),put the link in the website_shared.
 Let's share it!
+Let's go on!
